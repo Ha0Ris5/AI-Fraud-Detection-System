@@ -7,7 +7,6 @@
 
 **Authors:**  
 - Haris Mahmood: 23012399  
-- Adam Akhtar: 23008644  
 
 ---
 
