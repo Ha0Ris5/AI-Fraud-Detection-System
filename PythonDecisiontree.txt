@@ -1,0 +1,26 @@
+Python code -
+transvalue = int(input('what is the transaction value?'))
+if transvalue > 1000:
+ print('High risk of transaction being fraudulent!')
+else:
+ print('low risk of transaction being fraudulent!')
+acchistory = input('does purchase match frequency of the account history? Yes/No')
+if acchistory == 'Yes'or'yes':
+ print('low risk of transaction being fraudulent!')
+elif acchistory == 'No' or 'no':
+ print('high risk of transaction being fraudulent!')
+translocation = input('does purchase match account location? Yes/No')
+if translocation == 'Yes'or'yes':
+ print('low risk of transaction being fraudulent!')
+elif translocation == 'No' or 'no':
+ print('high risk of transaction being fraudulent!')
+userbehaviour = input('does all user behaviour match account normality? Yes/No')
+if userbehaviour == 'Yes'or'yes':
+ print('low risk of transaction being fraudulent!')
+elif userbehaviour == 'No' or 'no':
+ print('high risk of transaction being fraudulent!')
+print('Risk analysis has been assessed')
+
+
+
+
