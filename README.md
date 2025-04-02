@@ -1,4 +1,4 @@
-# AI Fraud Detection
+# AI Fraud Detection Model using logistic regression
 
 ## Coursework 1 – Artificial Intelligence  
 **Dr Zied M’nasri**  
